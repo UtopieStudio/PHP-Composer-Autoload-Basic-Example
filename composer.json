@@ -1,0 +1,11 @@
+{
+    "name": "utopiestudio/autoloaderbasicsetup",
+    "description": "Very basic example of how to use the PSR-4 Autoloader in PHP with Composer package manager.",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Utopiestudio\\Autoloaderbasicsetup\\": "src/"
+        }
+    },
+    "require": {}
+}
