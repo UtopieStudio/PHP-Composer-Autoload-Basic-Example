@@ -24,7 +24,7 @@ Your generated `composer.json` file should include the following block of json:
 ```
 You may wish to edit this after the fact, feel free, just make sure your namespace eg: `"Utopiestudio\\Autoloaderbasicsetup\\"` complies with the same formatting, uppercase camel-case letters and double backslashes.
 
-In theory, this could be anything you want eg, `"SuperDuperLoader\\LoadingNow\\LovelyJubbly\\"`. Just stick to using letters, though. In affect, this portion of the instruction is just an alias for the directory portion to the right of it.
+In theory, this could be anything you want eg, `"SuperDuperLoader\\LoadingNow\\LovelyJubbly\\"`. Just stick to using letters, though. In effect, this portion of the instruction is just an alias for the directory portion to the right of it.
 
 Speaking of which, make sure the `"src/"` dir portion is correct, too, i.e. it's a valid directory which exists and is where you will be storing your class files.
 
